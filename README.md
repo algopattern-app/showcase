@@ -1,25 +1,24 @@
 <div align="center">
+  
+<a href="https://algopattern.app">
+  <img src="./assets/branding/algopattern-logo.png" width="100px" alt="AlgoPattern logo" />
+</a>
 
-<img src="assets/branding/algopattern-hero.png" alt="AlgoPattern" width="620">
+# AlgoPattern
 
 **Learn to recognize the patterns behind coding interview problems.**
 
-AlgoPattern is a mobile learning app for practicing DSA pattern recognition through short daily exercises, explanations, and structured practice.
-
-[**Website**](https://algopattern.app)
-
 <p align="center">
-  <a href="https://apps.apple.com/us/app/algopattern/id6775235476"><img src="assets/badges/app-store-badge.svg" alt="Download on the App Store" height="48"></a>
+  <a href="https://apps.apple.com/us/app/algopattern/id6775235476">
+    <img src="assets/badges/app-store-badge.svg" alt="Download on the App Store" width="160" height="48">
+  </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.algopattern.app"><img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" height="48"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.algopattern.app">
+    <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" width="160" height="48">
+  </a>
 </p>
 
 </div>
-
----
-
-> **AlgoPattern is an actively developed commercial product.**
-> The production application source code and learning content are private. This repository provides a public overview of the product and the engineering scope behind it.
 
 ## What AlgoPattern does
 
